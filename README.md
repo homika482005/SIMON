@@ -37,12 +37,6 @@ An interactive memory-based game built using HTML, CSS, and JavaScript where use
 
 ---
 
-## 📸 Screenshot
-
-screenshot.png
-
----
-
 ## 💡 What I Learned
 
 * DOM manipulation and event handling
