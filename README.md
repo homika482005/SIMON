@@ -39,7 +39,7 @@ An interactive memory-based game built using HTML, CSS, and JavaScript where use
 
 ## 📸 Screenshot
 
-![Simon Game Screenshot](screenshot.png)
+screenshot.png
 
 ---
 
